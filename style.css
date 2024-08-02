@@ -1,0 +1,32 @@
+.navbar img{
+    width: 70px;
+    height: 40px; 
+}
+
+.jumbotron{
+    background-image: url('sparepart/atm.jpg');
+    background-size: Cover;
+    margin-top: -20px;
+    height: 500px;
+    
+}
+
+.jumbotron .display-4{
+    margin-top: 150px;
+    font-size: 50px;
+    font-style: italic;
+    color: black;
+}
+
+hr{
+    width: 160px;
+    border-top: 3px solid #eaeaea;
+}
+
+embed-responsive{
+    background-color: darkgrey  ;
+}
+ 
+footer{
+    font-size: smaller;
+}
